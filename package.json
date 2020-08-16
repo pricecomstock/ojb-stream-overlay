@@ -1,0 +1,18 @@
+{
+  "name": "ojb-stream-overlay",
+  "version": "1.0.0",
+  "description": "a stream overlay for [oljackyboy](twitch.tv/oljackyboy) to stream mostly Madden with",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "p5": "^1.1.9",
+    "tmi.js": "^1.5.0"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
+}
