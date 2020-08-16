@@ -14,5 +14,10 @@
   },
   "devDependencies": {
     "parcel": "^1.12.4"
-  }
+  },
+  "browserslist": [
+    "last 3 chrome versions",
+    "last 3 firefox versions",
+    "last 3 safari versions"
+  ]
 }
